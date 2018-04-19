@@ -45,7 +45,7 @@ These links offer two ways to connect to Device Portal: over the local network (
 
 ### Connect to Device Portal
 
-To connet through local host, open a browser window and enter the address shown here for the connection type you're using.
+To connect through local host, open a browser window and enter the address shown here for the connection type you're using.
 
 * Localhost: `http://127.0.0.1:<PORT>` or `http://localhost:<PORT>`
 * Local Network: `https://<IP address of the desktop>:<PORT>`
